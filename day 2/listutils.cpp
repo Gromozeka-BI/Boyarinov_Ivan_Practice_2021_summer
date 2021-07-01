@@ -76,8 +76,7 @@ bool testrShiftList()
 	pushNode(root, new Node{ 4 });
 	pushNode(root, new Node{ 5 });
 	
-	//show(root);//для тестов
-	show(root);
+	//show(root);
 	rShiftList(root, 3);
 	//show(root);
 	return (root->val == 0 && root->next->val == 0 && root->next->next->val == 0 && root->next->next->next->val == 1 && root->next->next->next->next->val == 2);
