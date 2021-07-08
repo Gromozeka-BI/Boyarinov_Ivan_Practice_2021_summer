@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1625241705 source:c:\users\Иван\desktop\codebloks cpp\wolves and sheep\main.cpp
+1625741458 source:c:\users\Иван\desktop\codebloks cpp\wolves and sheep\main.cpp
 	<iostream>
 	<math.h>
 	<string>
 	<stdio.h>
+	<sstream>
+	<windows.h>
+	<cstdlib>
 
